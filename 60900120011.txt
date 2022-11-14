@@ -1,0 +1,2 @@
+nama	: awal
+nim	: 011
